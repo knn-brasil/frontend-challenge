@@ -10,3 +10,6 @@ O que será avaliado:
 - Seu conhecimento em linguagem de folha de estilo (CSS)
 - Seu conhecimento em HTML
 - Seu conhecimento em JavaScript
+
+Todas as informações que você precisa para executar o desafio estão aqui!
+https://xd.adobe.com/view/54bbc8eb-7a57-4897-966a-5e986bd03781-01e8/
