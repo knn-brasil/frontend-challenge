@@ -1,6 +1,6 @@
 # frontend-challenge
 
-Bem vindo ao desafio de frontend da KNN! Chegou a hora de mostrar todo seu conhecimento nessa arte proibida que é o CSS+HTML 🥷
+Bem vindo ao desafio de frontend da KNN! Chegou a hora de mostrar todo seu conhecimento nessa arte proibida que é o FRONT-END 🥷
 
 Este desafio consiste em criar uma página responsiva partindo de um template utilizando:
 - Vue.js
